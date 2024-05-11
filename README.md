@@ -7,3 +7,6 @@ Main Skills:
 - SQL
 - POWER BI
 - ASP.NET Core MVC 
+
+
+
