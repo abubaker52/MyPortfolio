@@ -44,6 +44,6 @@ Contributions and Collaborations:
 I actively contribute to open-source projects and collaborate with fellow developers to tackle complex data analysis challenges. Explore my GitHub repositories to learn more about my contributions and projects.
 Let's Connect!
 
-📧 Feel free to reach out to me via email at [your-email@example.com] for collaborations, project inquiries, or networking opportunities. I look forward to connecting with you and exploring opportunities to create impactful data solutions together!
+📧 Feel free to reach out to me via email at [abubakr31121@gmail.com] for collaborations, project inquiries, or networking opportunities. I look forward to connecting with you and exploring opportunities to create impactful data solutions together!
 
 🙏 Thank you for visiting my GitHub portfolio. Let's drive data-driven innovation and make a difference!
