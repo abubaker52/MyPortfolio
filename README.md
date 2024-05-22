@@ -1,4 +1,5 @@
 🚀 Welcome to my GitHub portfolio! I am a highly motivated and results-oriented Data Analyst with over 7 years of extensive experience in designing, developing, and deploying Business Intelligence (BI) solutions. With a proven track record of success, I specialize in leveraging BI and data analysis tools to address complex business challenges and enhance decision-making processes. My strong analytical acumen, coupled with excellent communication and collaboration skills, enables me to effectively engage stakeholders at all levels.
+
 Core Skills:
 
 🛠️ SQL Server Integration Services (SSIS):
